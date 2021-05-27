@@ -1,0 +1,39 @@
+{
+    "name" : "Bharath Kumar",
+    "age" : 23,
+    "gender" : "Male",
+    "aadhaar" : "7704 0712 3442",
+    "mobile_number" : "9222563739"
+}
+
+{
+    "name" : "Farah Fakhri",
+    "age" : 32,
+    "gender" : "Female",
+    "aadhaar" : "3033 2405 6744",
+    "mobile_number" : "8236771234"
+}
+
+{
+    "name" : "Thomas Muster",
+    "age" : 67,
+    "gender" : "Male",
+    "aadhaar" : "6689 5434 9072",
+    "mobile_number" : "7004532679"
+}
+
+{
+    "name" : "Radhika Bhardwaj",
+    "age" : 45,
+    "gender" : "Female",
+    "aadhaar" : "5467 1456 3107",
+    "mobile_number" : "9095623722"
+}
+
+{
+    "name" : "Shankar Ehsaan Loy",
+    "age" : 52,
+    "gender" : "Male",
+    "aadhaar" : "3222 2999 9777",
+    "mobile_number" : "9997572725"
+}
